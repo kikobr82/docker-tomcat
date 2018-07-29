@@ -1,3 +1,3 @@
 FROM tomcat:latest
 
-COPY /tmp/webapp.war /usr/local/tomcat/webapps/
+COPY /var/jenkins_home/workspace/maven-project/webapp/target/webapp.war /usr/local/tomcat/webapps/
