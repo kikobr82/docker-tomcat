@@ -16,5 +16,4 @@
   limitations under the License.
 -->
 <Context antiResourceLocking="false" privileged="true" >
-   <Manager sessionAttributeValueClassNameFilter="java\.lang\.(?:Boolean|Integer|Long|Number|String)|org\.apache\.catalina\.filters\.CsrfPreventionFilter\$LruCache(?:\$1)?|java\.util\.(?:Linked)?HashMap"/>
 </Context>
