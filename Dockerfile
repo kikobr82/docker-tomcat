@@ -1,3 +1,3 @@
 FROM tomcat:latest
 
-COPY webapp.war /usr/local/tomcat/webapps/myapp.war
+COPY webapp.war /usr/local/tomcat/webapps/webapp.war
